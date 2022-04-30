@@ -7,8 +7,7 @@ Web Developer | Mobile App Developer
 Skilled Solution Architect and Javascript Full Stack Developer with 12+ Years of Experience in both Web and Mobile Application End to End Development.
 
 * 🌍  I'm based in Chennai, IND
-* 🖥️  See my portfolio at [Vinz.Dev](http://vinz.dev)
-* ✉️  You can contact me at [hi@vinz.dev](mailto:hi@vinz.dev)
+* ✉️  You can contact me through my Website at [Vinz.Dev](http://vinz.dev)
 * 🧠  I'm learning R and GO
 * 🤝  I'm open to collaborating on Javascript Frameworks and Libraries
 * ⚡  I do casual Gaming apart from coding.
